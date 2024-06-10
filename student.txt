@@ -1,1 +1,2 @@
 250 students
+10 teachers
